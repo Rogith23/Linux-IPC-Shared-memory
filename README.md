@@ -1,4 +1,4 @@
-<img width="800" height="593" alt="Screenshot 2025-10-15 113636" src="https://github.com/user-attachments/assets/95775ed7-0ea5-4f20-9a8c-b63f277fad9d" /># Linux-IPC-Shared-memory
+# Linux-IPC-Shared-memory
 Ex06-Linux IPC-Shared-memory
 
 # AIM:
