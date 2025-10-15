@@ -1,4 +1,4 @@
-# Linux-IPC-Shared-memory
+<img width="800" height="593" alt="Screenshot 2025-10-15 113636" src="https://github.com/user-attachments/assets/95775ed7-0ea5-4f20-9a8c-b63f277fad9d" /># Linux-IPC-Shared-memory
 Ex06-Linux IPC-Shared-memory
 
 # AIM:
@@ -56,7 +56,13 @@ int main()
 
 <img width="794" height="290" alt="Screenshot 2025-10-15 113617" src="https://github.com/user-attachments/assets/eb4794fd-94f8-4f86-9564-2125b7fd62b3" />
 
-![Uploading Screenshot 2025-10-15 113636.png…]()
+<img width="800" height="593" alt="Screenshot 2025-10-15 113636" src="https://github.com/user-attachments/assets/1f79b563-c271-4b21-8450-905cec47da7c" />
+
+
+
+
+
+
 
 
 
